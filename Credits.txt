@@ -1,0 +1,601 @@
+#########################
+Package:Noto Sans Font
+project URL:https://fonts.google.com/specimen/Noto+Sans
+Description:Noto Font
+licenseUrl:http://www.apache.org/licenses/LICENSE-2.0
+license Type:Apache-2.0
+
+#########################
+Package:Noto Sans Font SC
+project URL:https://fonts.google.com/specimen/Noto+Sans+SC
+Description:Noto Font sc
+licenseUrl:https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+license Type:SIL Open Font License 1.1
+
+#########################
+Package:Avalonia.IconPacks
+project URL:https://github.com/ahopper/Avalonia.IconPacks
+Description:Import of Visual Studio image library and MahApps.Metro.IconPacks for Avalonia 
+licenseUrl:https://github.com/ahopper/Avalonia.IconPacks/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:LiteDB
+project URL:https://github.com/mbdavid/litedb
+Description:LiteDB - A .NET NoSQL Document Store in a single data file
+licenseUrl:https://github.com/mbdavid/LiteDB/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:AutoMapper
+Version:12.0.1
+project URL:https://automapper.org/
+Description:A convention-based object-object mapper.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Avalonia
+Version:0.10.21
+project URL:https://avaloniaui.net/
+Description:Avalonia is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Avalonia.AvaloniaEdit
+Version:0.10.21
+project URL:https://github.com/AvaloniaUI/AvaloniaEdit
+Description:A port of AvalonEdit to the AvaloniaUI Framework.
+licenseUrl:http://opensource.org/licenses/MIT
+license Type:MIT
+
+#########################
+Package:Avalonia.Desktop
+Version:0.10.21
+project URL:https://avaloniaui.net/
+Description:Avalonia is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Avalonia.Diagnostics
+Version:0.10.21
+project URL:https://avaloniaui.net/
+Description:Avalonia is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Avalonia.ReactiveUI
+Version:0.10.21
+project URL:https://avaloniaui.net/
+Description:Avalonia is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package: Avalonia.HtmlRenderer
+Version:0.10.21
+project URL:https://avaloniaui.net/
+Description:Avalonia front-end for the HtmlRenderer project.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:BCnEncoder.Net
+Version:2.1.0
+project URL:https://github.com/Nominom/BCnEncoder.NET
+Description:BCnEncoder.NET is a library for compressing rgba images to different block-compressed formats. Both ktx and dds output file-formats are supported. It has no native dependencies and is .NET Standard 2.1 compatible.
+
+Supported formats are:
+    Raw unsigned byte R, RG, RGB and RGBA formats
+    BC1 (S3TC DXT1)
+    BC2 (S3TC DXT3)
+    BC3 (S3TC DXT5)
+    BC4 (RGTC1)
+    BC5 (RGTC2)
+    BC6 (BPTC-FLOAT)
+    BC7 (BPTC)
+licenseUrl:https://licenses.nuget.org/MIT%20OR%20Unlicense
+license Type:MIT OR Unlicense
+
+#########################
+Package:Castle.Core
+Version:5.1.1
+project URL:http://www.castleproject.org/
+Description:Castle Core, including DynamicProxy, Logging Abstractions and DictionaryAdapter
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:CodexMicroORM.Core
+Version:1.1.0
+project URL:https://github.com/codexguy/CodexMicroORM
+Description:A high performance, low code alternative to ORM's such as Entity Framework, offers intelligent database mapping to your existing CLR objects with minimal effort. Visit "Design Goals" on GitHub to see more rationale and guidance.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:CommandLineParser
+Version:2.9.1
+project URL:https://github.com/commandlineparser/commandline
+Description:Terse syntax C# command line parser for .NET.  For FSharp support see CommandLineParser.FSharp.  The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks.
+licenseUrl:https://www.nuget.org/packages/CommandLineParser/2.9.1/License
+license Type:MIT
+
+#########################
+Package:CompareNETObjects
+Version:4.79.0
+project URL:https://github.com/GregFinzer/Compare-Net-Objects
+Description:What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
+licenseUrl:https://www.nuget.org/packages/CompareNETObjects/4.77.0/License
+license Type:Microsoft Public License (Ms-PL)
+
+#########################
+Package:CWTools
+Version:0.4.0-alpha4
+project URL:
+Description:A library for parsing editing and validating Paradox Interactive script files.
+licenseUrl:
+license Type:MIT
+
+#########################
+Package:DiffPlex
+Version:1.7.1
+project URL:https://github.com/mmanela/diffplex/
+Description:DiffPlex is a diffing library that allows you to programatically create text diffs. DiffPlex is a fast and tested library.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:DotNetZip
+Version:1.16.0
+project URL:https://github.com/haf/DotNetZip.Semverd
+Description:A fork of the DotNetZip project without signing with a solution that compiles cleanly. This project aims to follow semver to avoid versioning conflicts. DotNetZip is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
+licenseUrl:https://raw.githubusercontent.com/haf/DotNetZip.Semverd/master/LICENSE
+license Type:BSD, Apache, zlib and MIT
+
+#########################
+Package:FluentAssertions
+Version:6.11.0
+project URL:https://www.fluentassertions.com/
+Description:A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or
+      BDD-style unit tests. Targets .NET Framework 4.7, .NET Core 2.1 and 3.0, .NET 6, as well as .NET Standard 2.0 and 2.1.
+      Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
+
+      Supported by InfoSupport B.V.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:FSharp.Core
+Version:7.0.300
+project URL:https://github.com/dotnet/fsharp
+Description:FSharp.Core redistributables from F# Tools version 12.4.0 For F# 7.0.  Contains code from the F# Software Foundation.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Gameloop.Vdf
+Version:0.6.2
+project URL:https://github.com/shravan2x/Gameloop.Vdf
+Description:A high-performance framework for the Valve Data Format, also called KeyValues.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Gameloop.Vdf.JsonConverter
+Version:0.2.1
+project URL:https://github.com/shravan2x/Gameloop.Vdf.JsonConverter
+Description:VDF-JSON converters for Vdf.NET.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:info.lundin.math.dll
+Version:1.2.7
+project URL:http://lundin.live/mathparser
+Description:Math expression parser, evaluates a string mathematical expression and returns a double value.
+licenseUrl:https://opensource.org/licenses/ms-pl.html
+license Type:Microsoft Public License (MS-PL)
+
+#########################
+Package:Jering.KeyValueStore
+Version:1.1.0
+project URL:https://github.com/JeringTech/KeyValueStore
+Description:Jering.KeyValueStore enables you to store key-value data across memory and disk. This library is a Microsoft.Faster wrapper.
+licenseUrl:https://github.com/JeringTech/KeyValueStore/blob/master/License.md
+license Type:Apache-2.0
+
+#########################
+Package:Magick.NET-Q8-x64
+Version:13.1.3
+project URL:https://github.com/dlemstra/Magick.NET
+Description:ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your server or desktop. Visit https://github.com/dlemstra/Magick.NET/tree/main/docs before installing to help you decide the best version.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:Jot
+Version:2.1.16
+project URL:https://github.com/anakic/Jot
+Description:Jot is a library for tracking application state. Typically this includes window sizes and locations, last entered data, application settings, and user preferences. In short: a better alternative to using settings files.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Material.Icons.Avalonia
+Version:1.1.10
+project URL:https://github.com/AvaloniaUtils/Material.Icons.Avalonia/
+Description:Avalonia control for display material icons from Material.Icons
+licenseUrl:https://github.com/AvaloniaUtils/Material.Icons.Avalonia/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:Material.Avalonia
+Version:1.0.1
+project URL:https://github.com/AvaloniaUtils/material.avalonia
+Description:This repository is a set of styles that will help you customize your application in an appropriate material design.
+licenseUrl:https://github.com/AvaloniaUtils/material.avalonia/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:MessageBox.Avalonia
+Version:1.1.1
+project URL:https://github.com/AvaloniaUtils/MessageBox.Avalonia
+Description:Messagebox for AvaloniaUI
+licenseUrl:https://github.com/AvaloniaUtils/MessageBox.Avalonia/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:Microsoft.Bcl.AsyncInterfaces
+Version:7.0.0
+project URL:https://dot.net/
+Description:Provides the IAsyncEnumerable<T> and IAsyncDisposable interfaces and helper types for .NET Standard 2.0. This package is not required starting with .NET Standard 2.1 and .NET Core 3.0.
+
+Commonly Used Types:
+System.IAsyncDisposable
+System.Collections.Generic.IAsyncEnumerable
+System.Collections.Generic.IAsyncEnumerator
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Microsoft.NET.Test.Sdk
+Version:17.6.2
+project URL:https://github.com/microsoft/vstest/
+Description:The MSbuild targets and properties for building .NET test projects.
+licenseUrl:https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/17.3.0/License
+license Type:MICROSOFT SOFTWARE LICENSE TERMS
+
+#########################
+Package:Microsoft.VisualStudio.SlowCheetah
+Version:4.0.50
+project URL:https://github.com/Microsoft/slow-cheetah
+Description:Allows for configuration based XML and JSON transformations at build time.
+licenseUrl:https://raw.githubusercontent.com/Microsoft/slow-cheetah/master/LICENSE
+license Type:MIT
+
+#########################
+Package:Microsoft.Win32.Registry
+Version:5.0.0
+project URL:https://github.com/dotnet/runtime
+Description:Provides support for accessing and modifying the Windows Registry.
+
+Commonly Used Types:
+Microsoft.Win32.RegistryKey
+Microsoft.Win32.Registry
+Microsoft.Win32.RegistryValueKind
+Microsoft.Win32.RegistryHive
+Microsoft.Win32.RegistryView
+ 
+When using NuGet 3.x this package requires at least version 3.4.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:MimeTypes
+Version:2.4.1
+project URL:https://github.com/khellang/MimeTypes
+Description:A simple lookup from file name/extension to MIME/media type and vice versa, generated from mime-db, which in turn is compiled from IANA, Apache and nginx's MIME types.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:Moq
+Version:4.18.4
+project URL:https://github.com/moq/moq4
+Description:Moq is the most popular and friendly mocking framework for .NET.
+
+Built from https://github.com/moq/moq4/tree/042a2ebbe
+licenseUrl:https://raw.githubusercontent.com/moq/moq4/main/License.txt
+license Type:BSD 3-Clause License
+
+#########################
+Package:Nerdbank.GitVersioning
+Version:3.6.133
+project URL:https://github.com/dotnet/Nerdbank.GitVersioning
+Description:Stamps your assemblies with semver 2.0 compliant git commit specific version information and provides NuGet versioning information as well.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:NetSparkleUpdater.SparkleUpdater
+Version:2.2.3
+project URL:https://github.com/NetSparkleUpdater/NetSparkle
+Description:NetSparkleUpdater/NetSparkle is a C# .NET software update framework that allows you to easily download installer files and update your C# .NET Framework or .NET Core software. Built-in UIs are available for WinForms, WPF, and Avalonia; if you want a built-in UI, please reference a NetSparkleUpdater.UI package. You provide, somewhere on the internet, an XML appcast with software version information along with release notes in Markdown or HTML format. The NetSparkle framework then checks for an update in the background, displays the release notes to the user, and lets users download or skip the software update. The framework can also perform silent downloads so that you can present all of the UI yourself or set up your own silent software update system, as allowed by your software architecture. It was inspired by the Sparkle (https://sparkle-project.org/) project for Cocoa developers and the WinSparkle (https://winsparkle.org/) project (a Win32 port).
+licenseUrl:https://www.nuget.org/packages/NetSparkleUpdater.SparkleUpdater/2.2.3/License
+license Type:MIT
+
+#########################
+Package:Newtonsoft.Json
+Version:13.0.3
+project URL:https://www.newtonsoft.com/json
+Description:Json.NET is a popular high-performance JSON framework for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Nito.AsyncEx
+Version:5.1.2
+project URL:https://github.com/StephenCleary/AsyncEx
+Description:A helper library for the Task-Based Asynchronous Pattern (TAP).
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:NLog
+Version:5.2.0
+project URL:https://nlog-project.org/
+Description:NLog is a logging platform for .NET with rich log routing and management capabilities.
+NLog supports traditional logging, structured logging and the combination of both.
+
+Supported platforms:
+
+- .NET 5, 6 and 7
+- .NET Core 1, 2 and 3
+- .NET Standard 1.3+ and 2.0+
+- .NET Framework 3.5 - 4.8
+- Xamarin Android + iOS (.NET Standard)
+- Mono 4
+
+For ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore
+licenseUrl:https://licenses.nuget.org/BSD-3-Clause
+license Type:BSD-3-Clause
+
+#########################
+Package:Pfim
+Version:0.11.2
+project URL:https://nickbabcock.github.io/Pfim/
+Description:A simple and fast .NET Standard image decoder for targa (.tga) and direct draw surface (.dds) images
+licenseUrl:https://raw.githubusercontent.com/nickbabcock/Pfim/master/LICENSE.txt
+license Type:MIT
+
+#########################
+Package:PommaLabs.MimeTypes
+Version:2.8.3+5c6b155
+project URL:https://gitlab.com/pommalabs/mime-types
+Description:MIME content type definitions mapped with file extensions and file signatures.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Portable.BouncyCastle
+Version:1.9.0
+project URL:https://www.bouncycastle.org/csharp/
+Description:BouncyCastle portable version with support for .NET 4, .NET Standard 2.0
+licenseUrl:https://www.bouncycastle.org/csharp/licence.html
+license Type:Adapted MIT License
+
+#########################
+Package:ReactiveUI
+Version:19.2.1
+project URL:https://reactiveui.net/
+Description:A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. This is the base package with the base platform implementations
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:RepoDb
+Version:1.13.1
+project URL:https://repodb.net/
+Description:A hybrid ORM library for .NET.
+licenseUrl:https://www.nuget.org/packages/RepoDb/1.12.10/License
+license Type:Apache License 2.0
+
+#########################
+Package:RepoDb.Sqlite.Microsoft
+Version:1.13.1
+project URL:https://repodb.net/tutorial/get-started-sqlite
+Description:A hybrid .NET ORM library for SQLite (using Microsoft.Data.Sqlite).
+licenseUrl:https://www.nuget.org/packages/RepoDb.Sqlite.Microsoft/1.13.1/License
+license Type:Apache License 2.0
+
+#########################
+Package:Sajidur78.StrongNamer
+Version:0.2.8
+project URL:https://github.com/sajidur78/strongnamer
+Description:Strong Namer will automatically add strong names to referenced assemblies which do not already have a strong name.
+licenseUrl:https://github.com/Sajidur78/strongnamer/blob/master/LICENSE
+license Type:MIT
+
+#########################
+Package:SharpCompress
+Version:0.33.0
+project URL:https://github.com/adamhathcock/sharpcompress
+Description:SharpCompress is a compression library for NET Standard 2.0/2.1/NET 6.0/NET 7.0 that can unrar, decompress 7zip, decompress xz, zip/unzip, tar/untar lzip/unlzip, bzip2/unbzip2 and gzip/ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip is implemented.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:SimpleInjector
+Version:5.4.1
+project URL:https://simpleinjector.org/
+Description:Simple Injector is an easy, flexible and fast dependency injection library that uses best practice to guide your solutions toward the pit of success.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:SimpleInjector.Packaging
+Version:5.0.0
+project URL:https://simpleinjector.org/
+Description:Adds support for packaging sets of related services to allow registering them together. Consumers can implement the IPackage interface and use the RegisterPackages extension method to dynamically add registrations in the supplied list of assemblies.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:SixLabors.ImageSharp
+Version:1.0.4
+project URL:https://github.com/SixLabors/ImageSharp
+Description:A new, fully featured, fully managed, cross-platform, 2D graphics API for .NET
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:SixLabors.ImageSharp.Drawing
+Version:1.0.0-beta11
+project URL:https://github.com/SixLabors/ImageSharp.Drawing
+Description:An extension to ImageSharp that allows the drawing of images, paths, and text.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:SlimMessageBus.Host.Memory
+Version:2.1.8
+project URL:https://github.com/zarusz/SlimMessageBus
+Description:Simple provider for SlimMessageBus for in process message passing. Messages are stored in memory (state is transient).
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:SmartFormat
+Version:3.2.1
+project URL:https://github.com/axuno/SmartFormat
+Description:This package contains the core SmartFormat assemblies with core extensions built-in.
+
+SmartFormat is a lightweight text templating library written in C#.
+It can format various data sources into a string with a minimal, intuitive syntax similar to string.Format.
+It uses extensions to provide named placeholders, localization, pluralization, gender conjugation, and list and time formatting.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Splat.NLog
+Version:14.6.37
+project URL:https://github.com/reactiveui/splat/
+Description:A library to make things cross-platform that should be.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Splat.SimpleInjector
+Version:14.6.37
+project URL:https://github.com/reactiveui/splat/
+Description:A library to make things cross-platform that should be.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Steamworks.NET
+Version:20.1.0
+project URL:https://github.com/rlabrecque/Steamworks.NET
+Description:Steamworks.NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:Syroot.Windows.IO.KnownFolders
+Version:1.3.0
+project URL:https://gitlab.com/Syroot/KnownFolders
+Description:.NET library for retrieving and changing all special Windows folder paths.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:System.Data.HashFunction.MetroHash
+Version:2.0.0
+project URL:
+Description:Data.HashFunction implementation of MetroHash (https://github.com/jandrewrogers/MetroHash).
+licenseUrl:https://raw.githubusercontent.com/brandondahler/Data.HashFunction/master/LICENSE
+license Type:
+
+#########################
+Package:System.Linq.Async
+Version:6.0.1
+project URL:https://github.com/dotnet/reactive
+Description:Provides support for Language-Integrated Query (LINQ) over IAsyncEnumerable<T> sequences.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:System.Reactive
+Version:6.0.0
+project URL:https://github.com/dotnet/reactive
+Description:Reactive Extensions (Rx) for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+#########################
+Package:TrieNet2
+Version:2.0.2
+project URL:https://github.com/OliBomby/trienet
+Description:.NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm. This is a modern .NET update for the old TrieNet package.
+licenseUrl:https://www.nuget.org/packages/TrieNet2/2.0.2/License
+license Type:MIT
+
+#########################
+Package:UTF.Unknown
+Version:2.5.1
+project URL:https://github.com/CharsetDetector/UTF-unknown
+Description:Detect character set for files, streams and other bytes.
+
+      This package is based on Ude and since version 2 also on uchardet, which are ports of the Mozilla Universal Charset Detector.
+
+Features:
+- Easy to use API
+- Supports frameworks:
+  - .NET Standard 1.0
+  - .NET Standard 1.3 and 2.0
+  - .NET Core 3.0 (because `System.Text.Encoding.CodePages` in shared framework)
+  - .NET Framework 4.0
+- Strong named
+- XML documentation included
+
+ Compared to Ude:
+ 
+ - Refactor of API, namespaces and deadcode removal
+ - Added some docs
+ - Improve error handling
+ - Improved unit tests
+licenseUrl:https://github.com/CharsetDetector/UTF-unknown/blob/master/license/MPL-1.1.txt
+license Type:Mozilla Public License
+
+#########################
+Package:Wanhjor.ObjectInspector
+Version:0.4.0
+project URL:https://github.com/tonyredondo/ObjectInspector
+Description:An efficient .NET object inspector/accesor to avoid reflection usage with duck typing support.
+licenseUrl:https://www.nuget.org/packages/Wanhjor.ObjectInspector/0.4.0/License
+license Type:MIT
+
+#########################
+Package:xunit
+Version:2.4.2
+project URL:https://github.com/xunit/xunit
+Description:xUnit.net is a developer testing framework, built to support Test Driven Development, with a design goal of extreme simplicity and alignment with framework features.
+
+Installing this package installs xunit.core, xunit.assert, and xunit.analyzers.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+#########################
+Package:xunit.runner.visualstudio
+Version:2.4.5
+project URL:https://github.com/xunit/visualstudio.xunit
+Description:Visual Studio 2019 16.8+ Test Explorer runner for the xUnit.net framework. Capable of running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 4.7.2 or later, .NET Core 3.1 or later, and Universal Windows 10.0.16299 or later.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
